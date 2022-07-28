@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+.box-part{
+    margin: 10px;
+    padding: 10px;
+    display: inline;
+}
+p{
+    text-align: left;
+}
+ol li{
+    text-align: left;
+}
+ul li{
+    text-align: left;
+}
